@@ -43,7 +43,7 @@ I'm always eager to expand my knowledge in various aspects of cybersecurity and 
 
 ### 📫 Let's Connect!
 
-* **LinkedIn**: [Connect with me on LinkedIn!] (linkedin.com/in/gustavo-rodriguez-3b075586) 
+* * **LinkedIn**: [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/gustavo-rodriguez-3b075586/)
 
 
 <!--
