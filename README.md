@@ -22,7 +22,7 @@ Here are my verified certifications, demonstrating my commitment to continuous l
 
 * **Google Cloud Security Analyst** - [Verify Badge](https://www.credly.com/badges/e8fd3e55-7526-4454-bb56-d51e71ce55fc/public_url)
 * **Google Cybersecurity Certificate** - [Verify Badge](https://www.credly.com/badges/044c657c-cbef-4fd4-97a3-372d974bce8e/public_url)
-* **Google AI Essentials** - [Verify Badge](https://www.credly.com/badges/4e295bfc-c7f4-4802-b884-57535a2ba4e/public_url)
+* **Google AI Essentials** - [Verify Badge](https://www.credly.com/badges/4e295bfc-c7f4-4802-b884-57535a2ba84e/public_url)
 * **Fortinet Certified Fundamentals in Cybersecurity** - [Verify Badge](https://www.credly.com/badges/4ceab9d6-1f0f-42f5-b7dd-c241913cec9c/public_url)
 * **Cisco: Endpoint Security** - [Verify Badge](https://www.credly.com/badges/d4349584-9490-4239-b30a-18568409e172/public_url)
 * **Cisco: Introduction to Cybersecurity** - [Verify Badge](https://www.credly.com/badges/563044fa-10c8-4378-ab6c-04b18b5914f0/public_url)
