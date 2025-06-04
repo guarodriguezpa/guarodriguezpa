@@ -43,9 +43,8 @@ I'm always eager to expand my knowledge in various aspects of cybersecurity and 
 
 ### 📫 Let's Connect!
 
-* **LinkedIn**: [Connect with me on LinkedIn!](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE-URL)
-* **Credly Profile**: [See all my badges on Credly!](https://www.credly.com/users/your-credly-username/badges)
-* **Email**: [Reach out via Email](mailto:your.email@example.com)
+* **LinkedIn**: [Connect with me on LinkedIn!] (linkedin.com/in/gustavo-rodriguez-3b075586) 
+
 
 <!--
 **guarodriguezpa/guarodriguezpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
