@@ -14,6 +14,8 @@ Explore my work and learn more about my practical skills in cloud security:
 
 🔗 **[Visit my Google Cloud Security Analyst Portfolio here!](https://github.com/guarodriguezpa/Google_Cloud_Security_Analyst)**
 
+web **[Visit my Google Cloud Security Analyst Portfolio  WEB here!](https://guarodriguezpa.github.io/Google_Cloud_Security_Analyst/)**
+
 ---
 
 ### 🎓 Certifications & Achievements
